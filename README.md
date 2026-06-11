@@ -1,1 +1,0 @@
-# voicevox-webui
